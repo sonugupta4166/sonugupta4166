@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👯 I’m looking to collaborate on **cloud native project**
+- 👯 I’m looking to collaborate on **cloud Native project**
 
 - 🤝 I’m looking for help with **DevOps Project**
 
