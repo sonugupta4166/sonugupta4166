@@ -2,7 +2,6 @@
 <h3 align="center">💡 DevOps & Cloud Engineer passionate about automating infrastructure, building scalable systems, and enabling faster software delivery.</h3>
 🔥 Fun DevOps  
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40sachin28%2Fcloud-vs-%25EF%25B8%258Fdevops-%25EF%25B8%258F-1ba72fb255ef&psig=AOvVaw1GSbUu9Bfm6YX6XkNfxLFc&ust=1759852958954000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqGAoTCPDlj7T5j5ADFQAAAAAdAAAAABCiAQ
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600px"/>
 
