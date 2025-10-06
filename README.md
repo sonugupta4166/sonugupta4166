@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">💡 DevOps & Cloud Engineer passionate about automating infrastructure, building scalable systems, and enabling faster software delivery.</h3>
 🔥 Fun DevOps  
-
+<img src="https://raw.githubusercontent.com/sonugupta4166/-practice/main/devops-illustration.gif" alt="DevOps Workflow" width="800">
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600px"/>
 
