@@ -12,7 +12,7 @@ DevOps 🤷🏻‍♂️
            alt="DevOps Workflow" width="500" />
     </td>
     <td align="right">
-      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
+      <img src="https://github.com/sonugupta4166/sonugupta4166/blob/e985f750c22f167631c4a830a5e2fb8c9e83e77b/DevOps%20%F0%9F%A4%B7%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.gif" 
            width="500px" />
     </td>
   </tr>
