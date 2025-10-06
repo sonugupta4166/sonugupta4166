@@ -5,7 +5,7 @@
 
 <!-- ✅ DevOps GIF Section (Profile Centered) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sonugupta4166/sonugupta4166/main/devops-illustration.gif" 
+  <img src="https://github.com/sonugupta4166/sonugupta4166/blob/643601120170148fc582cf9adbfe553642a65a42/devOps-trends.gif" 
        alt="DevOps Workflow" width="800" />
 </p>
 
