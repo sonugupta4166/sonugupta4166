@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">💡 DevOps & Cloud Engineer passionate about automating infrastructure, building scalable systems, and enabling faster software delivery.</h3>
 
-🔥 Fun DevOps  
+DevOps 🤷🏻‍♂️
 
 <!-- ✅ DevOps GIF Section (Profile Centered) -->
 <p align="center">
