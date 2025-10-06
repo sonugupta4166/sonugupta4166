@@ -4,15 +4,19 @@
 DevOps 🤷🏻‍♂️
 
 <!-- ✅ DevOps GIF Section (Profile Centered) -->
-<p align="center">
-  <img src="https://github.com/sonugupta4166/sonugupta4166/blob/643601120170148fc582cf9adbfe553642a65a42/devOps-trends.gif" 
-       alt="DevOps Workflow" width="800" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
-       width="600px" />
-</p>
+<!-- ✅ DevOps GIF Section: Left & Right in same row -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://github.com/sonugupta4166/sonugupta4166/blob/643601120170148fc582cf9adbfe553642a65a42/devOps-trends.gif" 
+           alt="DevOps Workflow" width="500" />
+    </td>
+    <td align="right">
+      <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" 
+           width="500px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
