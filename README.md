@@ -2,18 +2,17 @@
 <h3 align="center">💡 DevOps & Cloud Engineer passionate about automating infrastructure, building scalable systems, and enabling faster software delivery.</h3>
 
 DevOps 🤷🏻‍♂️
-
 <!-- ✅ DevOps GIF Section (Profile Centered) -->
 <!-- ✅ DevOps GIF Section: Left & Right in same row -->
 <table width="100%">
   <tr>
     <td align="left">
-      <img src="https://github.com/sonugupta4166/sonugupta4166/blob/643601120170148fc582cf9adbfe553642a65a42/devOps-trends.gif" 
-           alt="DevOps Workflow" width="400" />
-    </td>
-    <td align="right">
       <img src="https://github.com/sonugupta4166/sonugupta4166/blob/e985f750c22f167631c4a830a5e2fb8c9e83e77b/DevOps%20%F0%9F%A4%B7%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F.gif" 
            width="400px" />
+    </td>
+    <td align="right">
+       <img src="https://github.com/sonugupta4166/sonugupta4166/blob/643601120170148fc582cf9adbfe553642a65a42/devOps-trends.gif" 
+           alt="DevOps Workflow" width="400" />
     </td>
   </tr>
 </table>
