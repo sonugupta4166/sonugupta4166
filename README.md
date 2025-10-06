@@ -2,7 +2,8 @@
 <h3 align="center">💡 DevOps & Cloud Engineer passionate about automating infrastructure, building scalable systems, and enabling faster software delivery.</h3>
 🔥 Fun DevOps  
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600px" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c00c4613-f335-4617-939a-b602d27f942a" />
+
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600px"/>
 
 
